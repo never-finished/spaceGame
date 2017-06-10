@@ -1,3 +1,5 @@
+#this is the main program loop which uses the other files to create the game
+
 import pygame
 from gameSettings import Settings
 import game_functions as gf
